@@ -1,11 +1,9 @@
 {
-  "expo": {
-    "name": "my-app",
-    "slug": "my-app",
-    "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
-  },
-  "name": "my-app"
+   "expo": {
+      "name": "my-app",
+      "slug": "my-app",
+      "version": "1.0.0",
+      "assetBundlePatterns": ["assets/fonts/*"]
+   },
+   "name": "my-app"
 }

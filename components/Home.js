@@ -274,6 +274,7 @@ const styles = StyleSheet.create({
    learnMoreTitle: {
       marginHorizontal: 20,
       fontFamily: 'Lato-Bold',
+      fontWeight: 'bold',
       fontSize: 24,
       color: colors.black,
    },

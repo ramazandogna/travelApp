@@ -25,6 +25,9 @@ const TabNavigator = () => {
             inactiveTintColor: colors.gray,
             showLabel: false,
          }}
+         screenOptions={{
+            headerShown: false, // Tüm ekranlarda başlığı gizle
+         }}
       >
          <Tab.Screen
             name="Home"

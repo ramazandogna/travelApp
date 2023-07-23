@@ -3,7 +3,12 @@
       "name": "my-app",
       "slug": "my-app",
       "version": "1.0.0",
-      "assetBundlePatterns": ["assets/fonts/*"]
+      "assetBundlePatterns": ["assets/fonts/*"],
+      "fonts": [
+         {
+            "asset": "./assets/fonts/"
+         }
+      ]
    },
-   "name": "my-app"
+   "name": "travelAppUI"
 }
